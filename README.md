@@ -1,6 +1,7 @@
 # Local LeetCode
 
 This project is designed for individuals who want to solve LeetCode problems in environments where internet access is unavailable, such as on an airplane.
+Feel free to add test cases for the LeetCode problem.
 
 ## Features
 
